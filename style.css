@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: url(https://img.freepik.com/vecteurs-premium/fond-couleur-bleu-clair_569389-1020.jpg?w=1060);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'roboto';
+}
+.navbardiv1, .navbardiv2, .navbardiv3 {
+    display: block;
+    display: inline-block; 
+    justify-content: center;
+}
+.navbardiv1 {
+    font-size: 17px;
+    padding-left: 100px;
+    padding-right: 20px;
+    color: navy;
+}
+.navbardiv2 {
+    font-size: 15px;
+    padding-left: 400px;
+    padding-right: 40px;
+    
+}
+h3 {
+display: inline;
+padding-left: 10px;
+padding-right: 20px;
+
+}
+a {
+    text-decoration: none; 
+    color: darkblue;
+}
+.line {
+    height: 0.5px;
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: rgb(46, 41, 41);
+}
+.name-and-resume, .youtubevid {
+    display: block;
+    display: inline-block;  
+    width: 1000px;
+    height: 300px;
+}
+.myname {
+    color: darkslategrey;
+}
+.resume {
+    font-weight: bold;
+}
+.name-and-resume {
+    text-align: center;
+    width: 600px;
+    height: 300px;
+    margin-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
+.youtubevid {
+    width: 600px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    margin-top: 100px;
+}
+.languesclass, .projectclass {  
+    display: block;
+    display: inline-block;
+}
+.languesclass {
+    padding-left: 30%;
+    padding-right: 0%;
+}
+.projectclass {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.contactdiv {
+    font-weight: bolder;
+}
+.contact {
+    width: 200px;
+    padding-left: 45%;
+}
+.formlist {
+    width: 200px ;
+    padding-left: 40%;
+    padding-top: 1%;
+    word-spacing: 2px;
+}
+input {
+    display: block;
+    width: 255px;
+}
+.textarea2 {
+    display: block;
+    width: 255px;
+}
+.footer {
+    width: 100%;
+    padding-left: 65%;
+}
